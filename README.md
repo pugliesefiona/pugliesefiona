@@ -57,9 +57,7 @@ python project focused on **object-oriented programming**, including inheritance
 * data engineering
 * artificial intelligence and automation
 
-## let's connect
+## Let's connect!
 
 [LinkedIn](https://www.linkedin.com/in/fiona-pugliese-408858377/)
 
-
-[linkedin](https://www.linkedin.com/in/fiona-pugliese-408858377/)
